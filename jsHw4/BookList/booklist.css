@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fbf2e9;
+}
+
+#book-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.book-item {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #fbf2e9;
+    cursor: pointer;
+}
