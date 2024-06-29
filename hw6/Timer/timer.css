@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fffcfc;
+    font-family: system-ui;
+}
+
+.container {
+    text-align: center;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(8, 63, 100);
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+
+}
+
+#timerDisplay {
+    margin-top: 20px;
+    font-size: 48px;
+    font-weight: bold;
+}
